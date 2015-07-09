@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7454D6CE-6BCB-47B0-B3B4-68BB11324FA8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>wordraider</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>d83c6926-64c2-42dc-8a14-f6438bd91def++2871</key>
+		<string>http://77.100.255.64/svn/GR_001/branches/Prashant</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>wordraider.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>d83c6926-64c2-42dc-8a14-f6438bd91def++2871</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>d83c6926-64c2-42dc-8a14-f6438bd91def++2871</key>
+		<string>http://77.100.255.64/svn/GR_001</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://77.100.255.64/svn/GR_001/branches/Prashant/wordraider.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>d83c6926-64c2-42dc-8a14-f6438bd91def++2871</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>d83c6926-64c2-42dc-8a14-f6438bd91def++2871</string>
+			<key>IDESourceControlWCCName</key>
+			<string>wordraider_good</string>
+		</dict>
+	</array>
+</dict>
+</plist>
